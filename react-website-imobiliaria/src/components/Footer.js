@@ -10,21 +10,7 @@ function Footer() {
         <p className='footer-subscription-heading'>
        Encontre seu lugar conosco.  
         </p>
-        <p className='footer-subscription-text'>
-          
-        </p>
-        <div className='input-areas'>
-          <form>
-            <input
-              className='footer-input'
-              name='email'
-              type='email'
-              placeholder='Your Email'
-            />
-            <Button buttonStyle='btn--outline'>Subscribe</Button>
-          </form>
-        </div>
-      </section>
+              </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
