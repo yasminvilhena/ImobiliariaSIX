@@ -1,0 +1,99 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "casa 1",
+      "price": "4.0000",
+      "Code": "K122",
+      "setor": "imobiliária"
+    },
+    {
+      "id": 2,
+      "name": "casa 2",
+      "price": "8.0000",
+      "Code": "K433",
+      "setor": "imobiliária"
+    },
+    {
+      "id": 3,
+      "name": "apartamento 1",
+      "price": "16.00",
+      "Code": "K012",
+      "setor": "imobiliária"
+    },
+    {
+      "id": 4,
+      "name": "apartamento 2",
+      "price": "3.00",
+      "Code": "G0127",
+      "setor": "imobiliária"
+    },
+    {
+      "id": 5,
+      "name": "apartamento 3",
+      "price": "3.00",
+      "Code": "G0127",
+      "setor": "imobiliária"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "name": "Camila Mendes",
+      "price": "1.200",
+      "Code": "ATD",
+      "setor": "Corretora"
+    },
+    {
+      "id": 2,
+      "name": "Bruno Marte",
+      "price": "2.000",
+      "Code": "VNDA",
+      "setor": "Administração"
+    },
+    {
+      "id": 3,
+      "name": " Demitria Lovato",
+      "price": "1.600",
+      "Code": "GRCNT",
+      "setor": "Atendimento"
+    },
+    {
+      "id": 4,
+      "name": "Peter Parker",
+      "price": "3.600",
+      "Code": "GRNT",
+      "setor": "Administração"
+    }
+  ],
+  "Contatos": [
+    {
+      "id": 1,
+      "name": "Babel Construtora",
+      "price": "2.168.00",
+      "Code": "H104",
+      "setor": "Construção"
+    },
+    {
+      "id": 2,
+      "name": "Hanbada",
+      "price": "1.600",
+      "Code": "YT55",
+      "setor": "Advocacia"
+    },
+    {
+      "id": 3,
+      "name": "Matriz",
+      "price": "600.00",
+      "Code": "FL02",
+      "setor": "Engenharia"
+    },
+    {
+      "id": 4,
+      "name": "Bloom Arquitetura",
+      "price": "3.600",
+      "Code": "K019",
+      "setor": "arquitetura"
+    }
+  ]
+}
