@@ -45,10 +45,11 @@ export default function SignUp() {
       <input type="text" name="email" placeholder="Email" onChange={handleInputChange} value={formValues.email || ''} />
 
       <select name="Serviços" onChange={handleInputChange} value={formValues.language || ''}>
-        <option value="javascript">Compra</option>
-        <option value="php">Alugar</option>
-        <option value="ruby">Venda</option>
-        <option value="ruby">AirBnB</option>
+       <option value="0">serviços</option>
+        <option value="1">Compra</option>
+        <option value="2">Alugar</option>
+        <option value="3">Venda</option>
+        <option value="4">AirBnB</option>
       </select>
 
       <div className="radios">
